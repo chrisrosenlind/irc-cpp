@@ -1,3 +1,0 @@
-C:/Proj/irc-cpp/build/CMakeFiles/irc-cpp.dir
-C:/Proj/irc-cpp/build/CMakeFiles/edit_cache.dir
-C:/Proj/irc-cpp/build/CMakeFiles/rebuild_cache.dir
